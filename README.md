@@ -1,6 +1,8 @@
 # devops-09-22
 This is a DevOPs Best Practice Repo
 
+[![Click CLI Test](https://github.com/mina0331/devops-09-22/actions/workflows/blank.yml/badge.svg)](https://github.com/mina0331/devops-09-22/actions/workflows/blank.yml)
+
 To get started, do this: 
 'source ~/.venv/bin/activate'
 
