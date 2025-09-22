@@ -1,6 +1,9 @@
 # devops-09-22
 This is a DevOPs Best Practice Repo
 
+To get started, do this: 
+'source ~/.venv/bin/activate'
+
 ## Create a scaffold
 
 * 'requirements.txt' : packages 
